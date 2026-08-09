@@ -32,6 +32,11 @@ https://sameerhansda.github.io/arxiv-paper-finder/
 - Dark styling for supported arXiv HTML pages
 - Search settings and results preserved while switching tabs
 - Collapsible search controls while scrolling
+- Export bookmarks now — saves a portable .json file using Android's file picker.
+- Import bookmarks — imports bookmarks from another device. Imported bookmarks are merged with existing ones rather than replacing them.
+- Enable weekly backup — choose a folder once, and Android WorkManager automatically updates arxiv-bookmarks-latest.json every 7 days.
+- Change weekly backup folder
+- Disable weekly backup
 
 ---
 
